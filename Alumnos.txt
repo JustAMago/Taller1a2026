@@ -44,7 +44,6 @@ Paula;Fuenzalida;21486936-5;C1
 Cristian;Navarro;21567151-8;C2
 Carla;Poblete;21648343-K;C1
 Rocio;Saavedra;21730512-8;C2
-Ivan;Escobar;21813658-3;C1
 Karen;Molina;21897781-2;C2
 Esteban;Ramirez;21982881-0;C1
 Barbara;Rivera;22068958-1;C2
